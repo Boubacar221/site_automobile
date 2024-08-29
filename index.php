@@ -545,7 +545,7 @@ Les dimensions de ce véhicule sont de :
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Voitures details-->
-                                    <h4 class="text-uppercase">Marque: Ferrari </h4>
+                                    <h4 class="text-uppercase">Marque: Ferrari_GN </h4>
                                     <p class="item-intro text-muted">Modèle: Ferrari_488_GTB_2015_4aa4d </p>
                                     <img class="img-fluid d-block mx-auto" src="images/Ferrari_488_GTB_2015_4aa4d.jpg" alt="..." />
                                     <div>
